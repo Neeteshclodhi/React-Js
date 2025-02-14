@@ -13,7 +13,10 @@ function App() {
       // console.log("counter limit exceed")
       alert("counter limit exceed");
     } else {
-      counter = counter + 1;
+      counter = counter + 1
+      counter = counter + 1
+      counter = counter + 1
+       counter = counter + 1
     }
 
     // console.log("value added", counter )
